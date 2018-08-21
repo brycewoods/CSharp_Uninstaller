@@ -1,0 +1,7 @@
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Debug\Uninstaller.exe.config
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Debug\Uninstaller.exe
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Debug\Uninstaller.pdb
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Debug\Uninstaller.csprojAssemblyReference.cache
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Debug\Uninstaller.csproj.CoreCompileInputs.cache
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Debug\Uninstaller.exe
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Debug\Uninstaller.pdb

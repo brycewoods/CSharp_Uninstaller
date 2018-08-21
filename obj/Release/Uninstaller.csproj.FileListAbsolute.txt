@@ -1,0 +1,6 @@
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Release\Uninstaller.exe.config
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Release\Uninstaller.exe
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\bin\Release\Uninstaller.pdb
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Release\Uninstaller.csproj.CoreCompileInputs.cache
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Release\Uninstaller.exe
+c:\users\bryce\source\repos\Uninstaller\Uninstaller\obj\Release\Uninstaller.pdb
